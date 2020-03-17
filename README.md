@@ -1,4 +1,4 @@
-# kiwari-ios-test
+# ChatApp
 A simple chat app with firebase
 
 ### User Login
